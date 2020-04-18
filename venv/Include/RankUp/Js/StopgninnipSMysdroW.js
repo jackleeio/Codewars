@@ -26,4 +26,5 @@ function check(string){
     return string;
 }
 
+console.log(spinWords("Hello interesting"));
 
