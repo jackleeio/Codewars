@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eddee2a3-2731-412e-8426-9fbca61f3198" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Include/RankUp/JS/JsDebugger.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/RankUp/SplitStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/RankUp/Python/SplitStrings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/RankUp/StopgninnipSMysdroW.js" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/RankUp/JS/StopgninnipSMysdroW.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/RankUp/WhereMyAnagramsAt.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/RankUp/Python/WhereMyAnagramsAt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/RankUp/WriteNumberinExpandedForm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/RankUp/Python/WriteNumberinExpandedForm.py" afterDir="false" />
-    </list>
+    <list default="true" id="eddee2a3-2731-412e-8426-9fbca61f3198" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharmProject\Codewars\venv\Include\RankUp" />
       <recent name="D:\PyCharmProject\Codewars\venv\Include\RankUp\Python" />
       <recent name="D:\PyCharmProject\Codewars\venv\Include\RankUp\JS" />
     </key>
@@ -187,7 +181,7 @@
       <workItem from="1587214712895" duration="5676000" />
       <workItem from="1587223829102" duration="92000" />
       <workItem from="1587223954572" duration="1550000" />
-      <workItem from="1587225536783" duration="415000" />
+      <workItem from="1587225536783" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="April 14 Exercise">
       <created>1586872024625</created>
@@ -210,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587224939457</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change the architecture of the folder">
+      <created>1587226193438</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587226193438</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +234,8 @@
     <MESSAGE value="April 14 Exercise" />
     <MESSAGE value="April 16 Exercise" />
     <MESSAGE value="CodeWar April 18 JS Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeWar April 18 JS Exercise" />
+    <MESSAGE value="Change the architecture of the folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change the architecture of the folder" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Codewars$WriteNumberinExpandedForm.coverage" NAME="WriteNumberinExpandedForm Coverage Results" MODIFIED="1586871761658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include/RankUp" />
